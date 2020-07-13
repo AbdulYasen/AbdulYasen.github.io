@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 header:
-  image: "/images/
+  image: "/images/Screen Shot 2020-07-09 at 11.34.41 am.png"
 ---
 
 Hi!
